@@ -1,0 +1,11 @@
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\bin\Debug\net8.0\SkillBridge.Core.deps.json
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\bin\Debug\net8.0\SkillBridge.Core.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\bin\Debug\net8.0\SkillBridge.Core.pdb
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\SkillBridge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\SkillBridge.Core.AssemblyInfoInputs.cache
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\SkillBridge.Core.AssemblyInfo.cs
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\SkillBridge.Core.csproj.CoreCompileInputs.cache
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\SkillBridge.Core.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\refint\SkillBridge.Core.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\SkillBridge.Core.pdb
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Core\obj\Debug\net8.0\ref\SkillBridge.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.AssemblyInfo.cs
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\bin\Debug\net8.0\SkillBridge.Infrastructure.deps.json
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\bin\Debug\net8.0\SkillBridge.Infrastructure.runtimeconfig.json
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\bin\Debug\net8.0\SkillBridge.Infrastructure.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\bin\Debug\net8.0\SkillBridge.Infrastructure.pdb
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\bin\Debug\net8.0\SkillBridge.Core.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\bin\Debug\net8.0\SkillBridge.Core.pdb
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBri.C18FD7E5.Up2Date
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\refint\SkillBridge.Infrastructure.dll
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.pdb
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\SkillBridge.Infrastructure.genruntimeconfig.cache
+C:\Users\saipr\OneDrive\Desktop\SkillBridge\SkillBridge.Infrastructure\obj\Debug\net8.0\ref\SkillBridge.Infrastructure.dll
